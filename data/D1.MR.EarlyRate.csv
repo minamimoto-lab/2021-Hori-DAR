@@ -1,4 +1,4 @@
-"","mk","condition","rew","ER"
+"","monkey","condition","reward size","Early Rate"
 "1","stan","saline","1",0.333333333333333
 "2","stan","saline","2",0.666666666666667
 "3","stan","saline","3",0.8
