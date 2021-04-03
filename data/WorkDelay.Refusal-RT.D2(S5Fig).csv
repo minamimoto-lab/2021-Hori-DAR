@@ -1,4 +1,4 @@
-MK,S,cond,RC,ctype,ER,RT
+monkey,SessionNo,condition,CU,CostType,RefusalRate,RT
 kenny,644,CON,0,d,0.028571429,392.6911765
 kenny,645,CON,0,d,0.035294118,406.695122
 kenny,646,CON,0,d,0.03030303,406.953125
